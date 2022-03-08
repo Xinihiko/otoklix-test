@@ -1,0 +1,35 @@
+GET http://localhost:3000/api/posts
+
+###
+
+GET http://localhost:3000/api/posts/2
+
+###
+
+POST http://localhost:3000/api/posts
+Content-Type: application/json
+
+{
+  "title": "Hello cui",
+  "content": "Hello world dang dang"
+}
+
+###
+
+PUT http://localhost:3000/api/posts/2
+Content-Type: application/json
+
+{
+  "title": "Hello cui mie",
+  "content": "Hello world dang dang dang"
+}
+
+###
+
+DELETE http://localhost:3000/api/posts/2
+Content-Type: application/json
+
+{
+  "title": "Hello cui",
+  "content": "Hello world dang dang dang"
+}
