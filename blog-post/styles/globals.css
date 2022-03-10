@@ -14,3 +14,19 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.action-buttons {
+  letter-spacing: 1vw;
+}
+
+.gradientText {
+  background: linear-gradient(to top, #5524a3 0%, #1d96a7 100%);
+  line-height: 1.4;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#postTable > tbody > tr:hover {
+  background-color: #1d97a754;
+  cursor: pointer;
+}

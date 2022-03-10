@@ -9,18 +9,18 @@
     },
     {
         "id": 2,
-        "title": "Hello cui mie",
-        "content": "Hello world dang dang dang",
+        "title": "Hello World",
+        "content": "Hello, World!",
         "published_at": "2022-03-08T08:20:12.010Z",
         "created_at": "2022-03-08T08:20:12.010Z",
-        "updated_at": "2022-03-08T08:20:33.412Z"
+        "updated_at": "2022-03-10T12:35:29.047Z"
     },
     {
         "id": 3,
-        "title": "Hello cui",
-        "content": "Hello world dang dang",
-        "published_at": "2022-03-08T08:22:05.640Z",
-        "created_at": "2022-03-08T08:22:05.640Z",
-        "updated_at": "2022-03-08T08:22:05.640Z"
+        "title": "Hello Dave!",
+        "content": "My name is Joe, I wish you a good luck!\nSee you next time!",
+        "published_at": "2022-03-10T17:56:58.986Z",
+        "created_at": "2022-03-10T17:56:58.986Z",
+        "updated_at": "2022-03-10T18:27:10.511Z"
     }
 ]
